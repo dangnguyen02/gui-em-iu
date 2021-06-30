@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Em ơi!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao anh cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <3',
-    btnNo: 'Không, Bạn thôi :(',
-    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay ngủ sớm nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'He luu 16311!',
+    introDesc: `Tớ có điều này muốn nói với các cậu
+    trả lời tớ thật lòng nhé`,
+    btnIntro: 'Ok được thôi',
+    title: 'Các cậu thấy tớ có đẹp trai không 😙',
+    desc: 'Trả lời đi hehe ',
+    btnYes: 'Rất đẹp trai <3',
+    btnNo: 'Không, Xấu vãi nồi :(',
+    question:'Các cậu có yêu tớ khum <3',
+    btnReply: 'Gửi cho tớ nào <3',
+    reply: 'Yêu Nguyễn Hải Đăng nhiều lắm hihi <33333333',
+    mess: 'Tớ biết mà 🥰. Yêu các bạn nhiều nhiều 😘😘',
+    messDesc: 'I Love you .',
+    btnAccept: 'Moaaaa <3',
     messLink: 'https://www.facebook.com/messages/t/3279580882138120/'
 }
