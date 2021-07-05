@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'yêu Nguyễn Hải Đăng lắm lắm luôn <33333333',
     mess: 'Anh biết mà 🥰. Yêu Em 3000 😘😘',
     messDesc: 'Moaaaaa .',
-    btnAccept: 'Love Bùi Thị Uyên <3',
+    btnAccept: 'Love <3',
     messLink: 'https://www.youtube.com/watch?v=jdzj6tYAnjY'
 }
